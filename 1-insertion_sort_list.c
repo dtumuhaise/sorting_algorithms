@@ -3,7 +3,6 @@
  * insertion_sort_list - sorts doubly linked list
  * @list: list to be sorted
 */
-
 void insertion_sort_list(listint_t **list)
 {
 	listint_t *front, *back, *nextnode;
